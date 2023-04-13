@@ -2,6 +2,22 @@
 ## Overview
 This repository contains a formal model, written in Maude, of a Smart Home Use Case that uses Metacontrol.
 
+## Acknowledgements
+
+<a href="https://remaro.eu/">
+    <img height="50" alt="REMARO Logo" src="https://remaro.eu/wp-content/uploads/2020/09/remaro1-right-1024.png">
+</a>
+
+This work is part of the Reliable AI for Marine Robotics (REMARO) Project. For more info, please visist:  <a href="https://remaro.eu/">https://remaro.eu/
+
+<br>
+
+<a href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en">
+    <img align="left" height="50" alt="EU Flag" src="https://remaro.eu/wp-content/uploads/2020/09/flag_yellow_low.jpg">
+</a>
+
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 956200".
+
 ## Download and run
 To run the program, Maude needs to be installed. Guidelines for the installation can be found [here](http://maude.cs.illinois.edu/w/index.php/Maude_download_and_installation).
 
@@ -101,10 +117,3 @@ quit
 
 ## Additional documents
 The appendices for the paper can be found [here](https://github.com/JulianePa/Maude_Metacontrol/blob/461bde7ca4778d3b33a92848011c3374d0a0eeee/documents/appendix.pdf).
-
-## Acknowledgments
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 956200.
-
-Pleave visit [our website](https://remaro.eu/) for more info on our project.
-
-![REMARO Logo](https://remaro.eu/wp-content/uploads/2020/09/remaro1-right-1024.png)
